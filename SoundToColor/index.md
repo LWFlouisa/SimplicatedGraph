@@ -1,6 +1,7 @@
 # Color To Sound Chart
 
 ## 12 TET SOUND TO COLOR
+~~~
 F   384     Dark Red
 F#  370     Red
 G   392     Bright Red
@@ -16,9 +17,10 @@ E   659.3   Purple Blue
 F   698.5   Purple
 F#  737.7   Dark Purple
 G   776.9   Dark Red
-
+~~~
 
 ## 24 TET SOUND TO COLOR
+~~~
 F     384    Darkest Red
 F  hs 377    Darker Red
 F#    370    Red
@@ -48,3 +50,4 @@ F  hs 718.1  Medium Purple
 F#    737.7  Dark Purple
 G  hf 757.3  Purple Red
 G     776.9  Dark Red
+~~~
